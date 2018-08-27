@@ -1,0 +1,6 @@
+framework module FirebaseCarthage {
+  umbrella header "FirebaseCarthage.h"
+
+  export *
+  module * { export * }
+}
